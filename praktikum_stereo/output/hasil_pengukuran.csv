@@ -1,0 +1,2 @@
+uji,baseline_cm,baseline_status,square_size_mm,fx_px,fy_px,f_rect_px,rms_px,median_vertical_error_px,disparity_roi_px,depth_est_m,depth_meter_m,error_pct
+uji_01_030cm,8.2,perkiraan,28.0,2926.919,2977.823,3626.279,3.432,0.683,932.0,0.3191,0.3,6.35
