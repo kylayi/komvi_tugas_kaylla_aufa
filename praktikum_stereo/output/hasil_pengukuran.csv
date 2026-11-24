@@ -1,0 +1,4 @@
+uji,depth_meter_m,baseline_cm,square_size_mm,fx_px,f_rect_px,rms_px,median_vertical_error_px,disparity_roi_px,depth_est_m,error_pct
+uji_01_15cm,0.15,6.7,28.0,1147.81,1414.62,3.432,0.786,620.75,0.1527,1.79
+uji_02_30cm,0.3,6.7,28.0,1147.81,1441.26,3.432,0.282,364.25,0.2651,11.63
+uji_03_60cm,0.6,6.7,28.0,1147.81,1451.01,3.432,0.274,151.5,0.6417,6.95
